@@ -16,6 +16,8 @@ const Dashboard = () => {
         </div>
         <div className="diff-resizer"></div>
       </div>
+
+      <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur hic ea aperiam ducimus ut impedit, dolores quae vel repudiandae repellat.</h1>
     </div>
   );
 };
